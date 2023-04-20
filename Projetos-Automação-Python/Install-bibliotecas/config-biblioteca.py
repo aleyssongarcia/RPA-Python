@@ -14,3 +14,10 @@ navegador.get('https://www.google.com/')
 # pip install openpyxl
 # pip install pandas
 # pip install Pyinstaller
+
+
+#from sys import getsizeof
+
+#pip install PyQT5
+# pip install docx
+# pip install XlsxWriter
